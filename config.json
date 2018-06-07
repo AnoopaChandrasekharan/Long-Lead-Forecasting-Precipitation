@@ -1,0 +1,17 @@
+{
+  "RAW_DATA_ZIP" : "C:/Users/Anu/Documents/cs670/AI_Sun/raw_data.zip",
+  "STATE": "iowa",
+  "VARIABLES": [
+    "pw",
+    "t850",
+    "u300",
+    "u850",
+    "v300",
+    "v850",
+    "z300",
+    "z500",
+    "z1000"
+  ],
+  "SAMPLE_WINDOW": 15,
+  "HISTORIC_RANGE": 10
+}
